@@ -118,3 +118,22 @@ article p{
     border-radius: 34px;
     filter: blur(13px);
 }
+
+/**************ABOUT*****************/
+.about{
+    width: 50%;
+    font-size: 2.2em;
+    text-align: center;
+    margin: 15% 20% 0%;
+}
+.about h2{
+    width: 50%;
+    font-size: 2.2em;
+    text-align: center;
+    color: #4d2600;
+    margin-bottom: 2%;
+}
+hr{
+    width: 10%;
+    margin: 2% auto;
+}
